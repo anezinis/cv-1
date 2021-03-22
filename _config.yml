@@ -49,6 +49,11 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Emmmanouil Anezinis and i am an undergraduate student at Ionian University's Department of Informatics.
+  The fields in which have spent the most time on are:
+  - Health Data Analytics
+  - Bioinformatics
+  - Decision Support Systems
+  - Statistics
   
 
 content:
@@ -61,10 +66,8 @@ content:
         # link_text: boringcompany.com
         sub_title: Ionian University, Corfu GR
         caption: October 2015 - present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: |
-            Speciliazation in Information Systems.
+                Specilization in Information Systems.
 
         Main courses follow: 
         - Health Data Analytics
