@@ -82,7 +82,7 @@ content:
       - Spear-fishing
       - Coffee brewing
 # Footer
-footer_show_references: false
+#footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
